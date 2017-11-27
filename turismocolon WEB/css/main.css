@@ -1,0 +1,165 @@
+@charset "utf-8";
+#container {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header2 {
+	text-align: center;
+	margin-top: -60px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+}
+
+ul li {
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11pt;
+	padding-left: 18px;
+	padding-right: 19px;
+	list-style-type: none;
+	color: #000000;
+	margin-bottom: -10px;
+	margin-top: -30px;
+	text-decoration: underline;
+}
+ul li a {
+	text-decoration: none;
+	color: #000000;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 14pt;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	display: table;
+}
+
+
+
+
+
+#contenido {
+	width: 960px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 14pt;
+	margin-top: 0px;
+	padding-top: 0px;
+	top: 0pt;
+	margin-left: auto;
+	margin-bottom: 5px;
+	color: #000000;
+	font-weight: bold;
+	margin-right: auto;
+	text-align: center;
+}
+#footer {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+}
+#info {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	color: #000000;
+	font-weight: bold;
+	margin-top: 5px;
+	text-align: left;
+}
+#portobelo {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#giraportobelo {
+	width: 680px;
+	float: right;
+	margin-top: -130pt;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	margin-left: auto;
+	margin-right: 10px;
+}
+#sanlorenzo {
+	width: 270px;
+	float: right;
+	margin-right: -10px;
+}
+#girasanlorenzo {
+	width: 680px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	margin-left: 3px;
+}
+#boton {
+	margin-left: 491px;
+	margin-top: -14px;
+}
+#boton2 {
+	margin-left: 225px;
+	margin-top: -6px;
+}
+#giragatun {
+	width: 680px;
+	float: right;
+	margin-top: -190px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	margin-right: 11px;
+
+}
+#gatun {
+	width: 270px;
+}
+#menu {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	margin-top: -5px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#islagrande {
+	width: 260px;
+	margin-left: 700px;
+}
+#giraislagrande {
+	width: 680px;
+	margin-top: -187px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	margin-left: 3px;
+}
+#girazonalibre {
+	width: 680px;
+	float: right;
+	margin-top: -190px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12pt;
+	margin-right: 11px;
+
+}
+#zonalibre {
+	width: 270px;
+}
+#fotos {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#textoinic {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	color: #000000;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align: center;
+	font-size: 14pt;
+	font-weight: bold;
+}
+#bocasdeltoroindex {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
